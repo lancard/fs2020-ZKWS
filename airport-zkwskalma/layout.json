@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/airport-zkwskalma/Thumbnail.jpg",
+      "size": 37716,
+      "date": 132452748484006772
+    },
+    {
+      "path": "MarketplaceData/airport-zkwskalma/ContentInfo_Thumbnail.jpg",
+      "size": 37716,
+      "date": 132452748484006772
+    },
+    {
+      "path": "MarketplaceData/airport-zkwskalma/Marketplace.json",
+      "size": 312,
+      "date": 132452753190709012
+    },
+    {
+      "path": "MarketplaceData/airport-zkwskalma/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 56,
+      "date": 132452753192578993
+    },
+    {
+      "path": "scenery/world/scenery/SHPEXCLUSIONZONEPOLYGON.BGL",
+      "size": 5310,
+      "date": 132452753195378990
+    },
+    {
+      "path": "scenery/world/scenery/SHPrunways.bgl",
+      "size": 98169,
+      "date": 132452753194678989
+    }
+  ]
+}
